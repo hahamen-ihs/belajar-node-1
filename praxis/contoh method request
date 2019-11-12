@@ -1,0 +1,17 @@
+GET (untuk url) HARUS URL
+POST (untuk isi form) HARUS INPUTAN
+PUT
+DELETE
+
+reg.body ngambil dari POSTMAN
+request ngambil semua key yang ada 
+res ngambil semua dari return
+. param ngambil ke link
+. query 
+
+
+
+
+
+
+belajar nya di POSTMAN
